@@ -33,6 +33,7 @@ Clean arch was used for the architecture, with the aim of reducing code coupling
 * Darkmode;
 * Error Handling (even without connection like airplane mode);
 * Local bank consumption;
+* l10n;
 
 > ## Arch ([Clean Architecture](https://github.com/Flutterando/Clean-Dart)):
 
