@@ -1,0 +1,23 @@
+{
+    "zipCodeSearch": "Busca CEP",
+    "welcome": "Bem vindo",
+    "enterTheDesired": "Insira o CEP desejado abaixo para realizar a pesquisa:",
+    "pleaseEnterSome": "Por favor, insira um CEP válido.",
+    "toLookFor": "Pesquisar",
+    "cep": "CEP: ",
+    "publicPlace": "Logradouro: ",
+    "complement": "Complemento: ",
+    "neighborhood": "Bairro: ",
+    "location": "Localidade: ",
+    "uf": "UF: ",
+    "ibge": "IBGE: ",
+    "gia": "Gia: ",
+    "ddd": "DDD: ",
+    "siafi": "Siafi: ",
+    "result": "Resultado",
+    "zipCodeFound": "Cep encontrado com sucesso.",
+    "zipCodeNot": "Cep não encontrado ou não existe.",
+    "anInternalServer": "Ocorreu um erro interno no servidor, tente novamente mais tade.",
+    "theServerCannot": "O servidor não pode encontrar os dados solicitados.",
+    "itWasNot": "Não foi possível fazer a consulta online. Verifique seu acesso a internet."
+}

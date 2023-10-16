@@ -1,0 +1,23 @@
+{
+    "zipCodeSearch": "ZIP Code Search",
+    "welcome": "Welcome",
+    "enterTheDesired": "Enter the desired zip code below to perform the search:",
+    "pleaseEnterSome": "Please enter a valid zip code",
+    "toLookFor": "Search",
+    "cep": "Zip Code: ",
+    "publicPlace": "Place: ",
+    "complement": "Complement: ",
+    "neighborhood": "Neighborhood: ",
+    "location": "Location: ",
+    "uf": "UF: ",
+    "ibge": "IBGE: ",
+    "gia": "Gia: ",
+    "ddd": "DDD: ",
+    "siafi": "Siafi: ",
+    "result": "Result",
+    "zipCodeFound": "Zip code found successfully.",
+    "zipCodeNot": "Zip code not found or does not exist.",
+    "anInternalServer": "An internal server error occurred, please try again later.",
+    "theServerCannot": "The server cannot find the requested data.",
+    "itWasNot": "Unable to make the online consultation. Check your internet access."
+}
